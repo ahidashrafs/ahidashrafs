@@ -1,47 +1,47 @@
 # Hi, I'm MD Ashrafuzzaman 👋
 
-I’m an environmental engineering student focused on water resources and spatial data. I use GIS and satellite imagery to study how water moves through landscapes—whether that means mapping flash flood risks, finding optimal locations for groundwater recharge, or tracking how rapid urban sprawl impacts local drainage networks.
+I am an environmental engineering student focusing on water resources and spatial data.I am a GIS enthusiast who uses spatial data and satellite imagery to map flood hazards, locate optimal groundwater recharge zones, and analyze how urban growth impacts natural drainage networks.
 
 ---
 
-### 🚀 What I Focus On
-The bars below show where I spend most of my analytical and project time:
+### 🚀 Technical Focus Areas
+The bars below show where I spend most of my project implementation time:
 
-| Focus Area | Depth | Application Profile |
+| Focus Area |
 | :--- | :---: | :--- |
-| 🌊 **Spatial Hydrology & Flood Modeling** | **90%** | <progress value="90" max="100"></progress> |
-| 💧 **Water Resources & Aquifer Analytics** | **85%** | <progress value="85" max="100"></progress> |
-| 🌱 **Environmental Remote Sensing** | **80%** | <progress value="80" max="100"></progress> |
-| 📊 **Multi-Criteria Decision Analysis (MCDA)** | **75%** | <progress value="75" max="100"></progress> |
+| 🌊 **Spatial Hydrology & Flood Modeling** | 
+| 💧 **Water Resources & Aquifer Analytics** |
+| 🌱 **Environmental Remote Sensing** | **80%** |
+| 📊 **Multi-Criteria Decision Analysis (MCDA)** | **75%** |
 
 ---
 
 ## 🛠️ My Toolkit
 
-| 🛰️ GIS & Remote Sensing | 🧪 Environmental Engineering & Labs |
+| 🛰️ GIS & Remote Sensing | 🧪 Environmental Labs & Data |
 | :--- | :--- |
-| • **Software:** ArcGIS Pro, QGIS, ArcGIS Online<br>• **Hydrology:** Hydro-conditioning, Watershed delineation, Flow direction/accumulation (D8)<br>• **Analysis:** Multi-Criteria Decision Analysis (MCDA), Analytical Hierarchy Process (AHP)<br>• **Satellite Imagery:** LULC supervised classification, NDVI vegetation indexing | • **Water Quality:** Laboratory testing for wastewater parameters, adsorption, and coagulation studies<br>• **Data Handling:** Hydrological trend analysis, data normalization<br>• **Core Focus:** Sustainable water management, groundwater preservation, and runoff mitigation |
+| • **Software:** ArcGIS Pro, QGIS, ArcGIS Online<br>• **Hydrology:** Hydro-conditioning, Watershed delineation, D8 flow routing<br>• **Analysis:** Multi-Criteria Decision Analysis (MCDA), AHP weighting<br>• **Satellite Data:** LULC classification, NDVI vegetation indexing | • **Water Quality:** Lab testing for wastewater, adsorption, and coagulation<br>• **Data Processing:** Hydrological trend analysis, data normalization<br>• **Core Focus:** Sustainable water management, groundwater preservation |
 
 ---
 
 ## 📈 Featured Projects
 
-### 📂 [Managed Aquifer Recharge (MAR) Suitability Model](https://github.com/ahidashrafs/Managed-Aquifer-Recharge-MAR-Chapai-Nawabganj-Bangladesh)
-* **The Challenge:** Groundwater tables are dropping rapidly in drought-prone areas like the Barind Tract.
-* **The Work:** Built an ArcGIS Pro suitability model for Chapai Nawabganj. I integrated layered data for soil texture, slope gradients, LULC, rainfall, and drainage density via an AHP weighting matrix to pinpoint the most effective zones for artificial rainwater harvesting and aquifer infiltration.
+### [Managed Aquifer Recharge (MAR) Suitability Model](https://github.com/ahidashrafs/Managed-Aquifer-Recharge-MAR-Chapai-Nawabganj-Bangladesh)
+* **Objective:** Address rapidly dropping groundwater tables in the drought-prone Barind Tract.
+* **Approach:** Built an ArcGIS Pro suitability model for Chapai Nawabganj. I integrated soil texture, slope, LULC, rainfall, and drainage density layers using an AHP matrix to map the best zones for artificial aquifer infiltration.
 
-### 📂 [Regional Flood Risk Assessment](https://github.com/ahidashrafs/Flood-Risk-Assessment-project-of-Sylhet-Division)
-* **The Challenge:** Intense seasonal flash floods routinely overwhelm low-lying basin areas.
-* **The Work:** Developed a comprehensive hazard and vulnerability map for the Sylhet Division. By combining terrain metrics (elevation and slope) with a 5-year spatial rainfall baseline (2018–2023) and local river proximity buffers, the model isolates exactly where physical bottlenecks trap floodwaters.
+### [Regional Flood Risk Assessment](https://github.com/ahidashrafs/Flood-Risk-Assessment-project-of-Sylhet-Division)
+* **Objective:** Map flash flood vulnerability in low-lying basin areas.
+* **Approach:** Developed a hazard and exposure map for the Sylhet Division. I combined terrain metrics (elevation and slope) with 5-year rainfall data (2018–2023) and river proximity buffers to isolate key drainage bottlenecks.
 
-### 📂 [Dhaka Urban Sprawl & Land Cover Analysis](https://github.com/ahidashrafs/-Dhaka-s-Environmental-Changes-with-NDVI-and-LULC-2014-2024-)
-* **The Challenge:** Rapid urban growth is paving over natural soil sinks and green spaces.
-* **The Work:** Used multi-temporal Landsat satellite imagery spanning a 10-year period (2014–2024) to run NDVI and land cover classifications. Tracked a 14.55% surge in concrete and built-up areas, mapping exactly where natural drainage capacity has been lost.
+### [Dhaka Urban Sprawl & Land Cover Analysis](https://github.com/ahidashrafs/-Dhaka-s-Environmental-Changes-with-NDVI-and-LULC-2014-2024-)
+* **Objective:** Quantify how rapid urbanization urbanizes natural green spaces and drainage sinks.
+* **Approach:** Used Landsat satellite imagery spanning 2014–2024 to run NDVI and land cover classifications. Tracked a 14.55% surge in paved surfaces to map exactly where natural drainage capacity was lost.
 
 ---
 
-## 🤝 Let's Connect!
-I'm always open to discussing spatial hydrology workflows, water resource management, or GIS research.
+## Let's Connect!
+I am always open to discussing spatial hydrology, water resource management, or GIS research.
 
-* 📧 **Email:** [your.email@example.com] <!-- Add your actual email here -->
-* 💼 **LinkedIn:** [Your LinkedIn Profile URL] <!-- Add your actual link here -->
+* 📧 **Email:** [ahidashrafs@gmail.com] <!-- Add your actual email here -->
+* 💼 **LinkedIn:** [www.linkedin.com/in/ahid-ashraf-3a5835237] <!-- Add your actual link here -->
