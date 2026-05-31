@@ -1,11 +1,11 @@
 # Hi, I'm Ahid Ashraf Sami 
 
-I am a final year Civil and Environmental Engineering student focusing on water resources and spatial data.As a GIS enthusiast I use spatial data and satellite imagery to map flood hazards, locate optimal groundwater recharge zones, and analyze how urban growth impacts natural drainage networks.
+I am a final year **Civil and Environmental Engineering** student focusing on water resources and spatial data. As a **GIS** enthusiast I use spatial data and satellite imagery to map flood hazards, locate optimal groundwater recharge zones, and analyze how urban growth impacts natural drainage networks.
 
 ---
 
 
-### 🚀 Technical Focus Areas
+### Focus Areas:
 The list below shows my primary areas of interest and project application:
 
  **1. Spatial Hydrology & Flood Modeling**
@@ -18,7 +18,7 @@ The list below shows my primary areas of interest and project application:
 
 ---
 
-## Tools I use
+## Tools I use:
 
 |  GIS & Remote Sensing |  Environmental Labs & Data |
 | :--- | :--- |
@@ -26,7 +26,7 @@ The list below shows my primary areas of interest and project application:
 
 ---
 
-## Featured Projects
+## Featured Projects:
 
 ### [Managed Aquifer Recharge (MAR) Suitability Model](https://github.com/ahidashrafs/Managed-Aquifer-Recharge-MAR-Chapai-Nawabganj-Bangladesh)
 * **Objective:** Address rapidly dropping groundwater tables in the drought-prone Barind Tract.
