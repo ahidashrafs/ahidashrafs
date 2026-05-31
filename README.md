@@ -1,4 +1,4 @@
-# Hi, I'mAhid Ashraf Sami 👋
+# Hi, I'm Ahid Ashraf Sami 👋
 
 I am a final year Civil and Environmental Engineering student focusing on water resources and spatial data.As a GIS enthusiast I use spatial data and satellite imagery to map flood hazards, locate optimal groundwater recharge zones, and analyze how urban growth impacts natural drainage networks.
 
@@ -9,8 +9,11 @@ I am a final year Civil and Environmental Engineering student focusing on water 
 The list below shows my primary areas of interest and project application:
 
  **Spatial Hydrology & Flood Modeling**
+ 
  **Water Resources & Aquifer Analytics**
+
  **Environmental Remote Sensing**
+ 
  **Multi-Criteria Decision Analysis (MCDA)**
 
 ---
@@ -19,7 +22,7 @@ The list below shows my primary areas of interest and project application:
 
 |  GIS & Remote Sensing |  Environmental Labs & Data |
 | :--- | :--- |
-| • **Software:** ArcGIS Pro, QGIS, ArcGIS Online<br>• **Hydrology:** Hydro-conditioning, Watershed delineation, D8 flow routing<br>• **Analysis:** Multi-Criteria Decision Analysis (MCDA), AHP weighting<br>• **Satellite Data:** LULC classification, NDVI vegetation indexing | • **Water Quality:** Lab testing for wastewater, adsorption, and coagulation<br>• **Data Processing:** Hydrological trend analysis, data normalization<br>• **Core Focus:** Sustainable water management, groundwater preservation |
+| • **Software:** ArcGIS Pro, QGIS <br>• **Hydrology:** Hydro-conditioning, Watershed delineation<br>• **Analysis:** Multi-Criteria Decision Analysis (MCDA), AHP weighting<br>• **Satellite Data:** LULC classification, NDVI vegetation indexing | • **Water Quality:** Lab testing for wastewater, adsorption, and coagulation<br>• **Core Focus:** Sustainable water management, groundwater preservation |
 
 ---
 
