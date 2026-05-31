@@ -8,13 +8,13 @@ I am a final year Civil and Environmental Engineering student focusing on water 
 ### 🚀 Technical Focus Areas
 The list below shows my primary areas of interest and project application:
 
- **Spatial Hydrology & Flood Modeling**
+ **1. Spatial Hydrology & Flood Modeling**
  
- **Water Resources & Aquifer Analytics**
+ **2. Water Resources & Aquifer Analytics**
 
- **Environmental Remote Sensing**
+ **3. Environmental Remote Sensing**
  
- **Multi-Criteria Decision Analysis (MCDA)**
+ **4. Multi-Criteria Decision Analysis (MCDA)**
 
 ---
 
