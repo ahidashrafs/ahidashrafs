@@ -12,7 +12,7 @@ The list below shows my primary areas of interest and project application:
  
  **2. Water Resources & Aquifer Analytics**
 
- **3. Environmental Remote Sensing**
+ **3. Remote Sensing**
  
  **4. Multi-Criteria Decision Analysis (MCDA)**
 
