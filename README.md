@@ -1,78 +1,47 @@
-# Hi there, I'm Ahid Ashraf Sami 👋
+# Hi, I'm MD Ashrafuzzaman 👋
 
-I’m a final year Civil & Environmental Engineering student focused on water resources and spatial data. I use GIS and satellite data to study how water moves through landscapes—whether that means mapping flash flood risks, finding the best spots for groundwater recharge, or looking at how urban growth impacts local drainage.
+I’m an environmental engineering student focused on water resources and spatial data. I use GIS and satellite imagery to study how water moves through landscapes—whether that means mapping flash flood risks, finding optimal locations for groundwater recharge, or tracking how rapid urban sprawl impacts local drainage networks.
+
 ---
 
-### 🚀 Core Engineering Domain Expertise
-The visual bars below reflect my primary analytical focus areas and project implementation distributions:
+### 🚀 What I Focus On
+The bars below show where I spend most of my analytical and project time:
 
-| Domain Architecture | Focus Depth | Structural Application Profile |
+| Focus Area | Depth | Application Profile |
 | :--- | :---: | :--- |
 | 🌊 **Spatial Hydrology & Flood Modeling** | **90%** | <progress value="90" max="100"></progress> |
-| 💧 **Water Resource & Aquifer Analytics** | **85%** | <progress value="85" max="100"></progress> |
-| 🌱 **Environmental Remote Sensing (RS)** | **80%** | <progress value="80" max="100"></progress> |
+| 💧 **Water Resources & Aquifer Analytics** | **85%** | <progress value="85" max="100"></progress> |
+| 🌱 **Environmental Remote Sensing** | **80%** | <progress value="80" max="100"></progress> |
 | 📊 **Multi-Criteria Decision Analysis (MCDA)** | **75%** | <progress value="75" max="100"></progress> |
 
 ---
 
-## 🛠️ Technical Ecosystem & Toolsets
+## 🛠️ My Toolkit
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛰️ Geospatial & Remote Sensing</h4>
-      <ul>
-        <li><strong>Software:</strong> ArcGIS Pro, QGIS, ArcGIS Online</li>
-        <li><strong>Hydrology Toolsets:</strong> Hydro-Conditioning, Watershed Delineation, D8 Flow Dynamics</li>
-        <li><strong>Analytics:</strong> Multi-Criteria Decision Analysis (MCDA), Analytical Hierarchy Process (AHP)</li>
-        <li><strong>Remote Sensing:</strong> LULC Supervised Classification, NDVI / Vegetation Indexing</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧪 Environmental Engineering Labs</h4>
-      <ul>
-        <li><strong>Water Quality:</strong> Wastewater Parameters, Adsorption & Coagulation Studies</li>
-        <li><strong>Data Processing:</strong> Hydrological Trend Analysis, Multi-Variate Normalization</li>
-        <li><strong>Core Focus:</strong> Sustainable Water Management, Aquifer Preservation, Runoff Mitigation</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| 🛰️ GIS & Remote Sensing | 🧪 Environmental Engineering & Labs |
+| :--- | :--- |
+| • **Software:** ArcGIS Pro, QGIS, ArcGIS Online<br>• **Hydrology:** Hydro-conditioning, Watershed delineation, Flow direction/accumulation (D8)<br>• **Analysis:** Multi-Criteria Decision Analysis (MCDA), Analytical Hierarchy Process (AHP)<br>• **Satellite Imagery:** LULC supervised classification, NDVI vegetation indexing | • **Water Quality:** Laboratory testing for wastewater parameters, adsorption, and coagulation studies<br>• **Data Handling:** Hydrological trend analysis, data normalization<br>• **Core Focus:** Sustainable water management, groundwater preservation, and runoff mitigation |
 
 ---
 
-## 📈 Featured Spatial Projects (Selected Portfolio)
+## 📈 Featured Projects
 
-### 📂 [Managed Aquifer Recharge (MAR) Site Suitability](https://github.com/ahidashrafs/Managed-Aquifer-Recharge-MAR-Chapai-Nawabganj-Bangladesh)
-*   **The Problem:** Groundwater table depletion in drought-prone regions.
-*   **The Solution:** Developed an ArcGIS Pro suitability model integrating soil texture, slope, LULC, rainfall, and drainage layers via an AHP matrix to map the most efficient zones for artificial aquifer infiltration.
+### 📂 [Managed Aquifer Recharge (MAR) Suitability Model](https://github.com/ahidashrafs/Managed-Aquifer-Recharge-MAR-Chapai-Nawabganj-Bangladesh)
+* **The Challenge:** Groundwater tables are dropping rapidly in drought-prone areas like the Barind Tract.
+* **The Work:** Built an ArcGIS Pro suitability model for Chapai Nawabganj. I integrated layered data for soil texture, slope gradients, LULC, rainfall, and drainage density via an AHP weighting matrix to pinpoint the most effective zones for artificial rainwater harvesting and aquifer infiltration.
 
-### 📂 [Flood Risk Assessment & Vulnerability Analysis](https://github.com/ahidashrafs/Flood-Risk-Assessment-project-of-Sylhet-Division)
-*   **The Problem:** Severe seasonal flash flooding drowning low-lying catchment basins.
-*   **The Solution:** Built a comprehensive hazard and exposure map using a 5-year spatial-temporal rainfall baseline (2018–2023) and terrain analytics to isolate high-vulnerability hydrologic bottlenecks.
+### 📂 [Regional Flood Risk Assessment](https://github.com/ahidashrafs/Flood-Risk-Assessment-project-of-Sylhet-Division)
+* **The Challenge:** Intense seasonal flash floods routinely overwhelm low-lying basin areas.
+* **The Work:** Developed a comprehensive hazard and vulnerability map for the Sylhet Division. By combining terrain metrics (elevation and slope) with a 5-year spatial rainfall baseline (2018–2023) and local river proximity buffers, the model isolates exactly where physical bottlenecks trap floodwaters.
 
-### 📂 [Urban Environmental Degradation Mapping](https://github.com/ahidashrafs/-Dhaka-s-Environmental-Changes-with-NDVI-and-LULC-2014-2024-)
-*   **The Problem:** Rapid urbanization swallowing natural drainage sinks and agricultural lands.
-*   **The Solution:** Utilized multi-temporal Landsat imagery over a 10-year span to run NDVI and LULC supervised classifications, tracking a 14.55% surge in impervious surfaces.
+### 📂 [Dhaka Urban Sprawl & Land Cover Analysis](https://github.com/ahidashrafs/-Dhaka-s-Environmental-Changes-with-NDVI-and-LULC-2014-2024-)
+* **The Challenge:** Rapid urban growth is paving over natural soil sinks and green spaces.
+* **The Work:** Used multi-temporal Landsat satellite imagery spanning a 10-year period (2014–2024) to run NDVI and land cover classifications. Tracked a 14.55% surge in concrete and built-up areas, mapping exactly where natural drainage capacity has been lost.
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
-I am always open to discussing spatial hydrology workflows, water resource engineering, or GIS research opportunities.
+## 🤝 Let's Connect!
+I'm always open to discussing spatial hydrology workflows, water resource management, or GIS research.
 
-* 📧 **Email:** [your.email@example.com] <!-- Update with your actual email -->
-* 💼 **LinkedIn:** [Your LinkedIn Profile URL] <!-- Update with your actual link -->
-<!--
-**ahidashrafs/ahidashrafs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📧 **Email:** [your.email@example.com] <!-- Add your actual email here -->
+* 💼 **LinkedIn:** [Your LinkedIn Profile URL] <!-- Add your actual link here -->
