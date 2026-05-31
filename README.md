@@ -1,30 +1,29 @@
-# Hi, I'm MD Ashrafuzzaman 👋
+# Hi, I'mAhid Ashraf Sami 👋
 
-I am an environmental engineering student focusing on water resources and spatial data.I am a GIS enthusiast who uses spatial data and satellite imagery to map flood hazards, locate optimal groundwater recharge zones, and analyze how urban growth impacts natural drainage networks.
+I am a final year Civil and Environmental Engineering student focusing on water resources and spatial data.As a GIS enthusiast I use spatial data and satellite imagery to map flood hazards, locate optimal groundwater recharge zones, and analyze how urban growth impacts natural drainage networks.
 
 ---
+
 
 ### 🚀 Technical Focus Areas
-The bars below show where I spend most of my project implementation time:
+The list below shows my primary areas of interest and project application:
 
-| Focus Area |
-| :--- | :---: | :--- |
-| 🌊 **Spatial Hydrology & Flood Modeling** | 
-| 💧 **Water Resources & Aquifer Analytics** |
-| 🌱 **Environmental Remote Sensing** | **80%** |
-| 📊 **Multi-Criteria Decision Analysis (MCDA)** | **75%** |
+ **Spatial Hydrology & Flood Modeling**
+ **Water Resources & Aquifer Analytics**
+ **Environmental Remote Sensing**
+ **Multi-Criteria Decision Analysis (MCDA)**
 
 ---
 
-## 🛠️ My Toolkit
+## Tools I use
 
-| 🛰️ GIS & Remote Sensing | 🧪 Environmental Labs & Data |
+|  GIS & Remote Sensing |  Environmental Labs & Data |
 | :--- | :--- |
 | • **Software:** ArcGIS Pro, QGIS, ArcGIS Online<br>• **Hydrology:** Hydro-conditioning, Watershed delineation, D8 flow routing<br>• **Analysis:** Multi-Criteria Decision Analysis (MCDA), AHP weighting<br>• **Satellite Data:** LULC classification, NDVI vegetation indexing | • **Water Quality:** Lab testing for wastewater, adsorption, and coagulation<br>• **Data Processing:** Hydrological trend analysis, data normalization<br>• **Core Focus:** Sustainable water management, groundwater preservation |
 
 ---
 
-## 📈 Featured Projects
+## Featured Projects
 
 ### [Managed Aquifer Recharge (MAR) Suitability Model](https://github.com/ahidashrafs/Managed-Aquifer-Recharge-MAR-Chapai-Nawabganj-Bangladesh)
 * **Objective:** Address rapidly dropping groundwater tables in the drought-prone Barind Tract.
