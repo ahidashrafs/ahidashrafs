@@ -1,49 +1,26 @@
 # Hi, I'm Ahid Ashraf Sami 
 
-I am a final year **Civil and Environmental Engineering** student focusing on water resources and spatial data. As a **GIS** enthusiast I use spatial data and satellite imagery to map flood hazards, locate optimal groundwater recharge zones, and analyze how urban growth impacts natural drainage networks.
-
+Ahid Ashraf Sami
+Final-year Civil & Environmental Engineering student at IUT, Gazipur. I use GIS and satellite data to study flood risk, groundwater, and land cover change — mostly in Bangladesh.
+Graduating in ~3 months. Looking for GIS or environmental roles.
 ---
-
-
-### Focus Areas:
-The list below shows my primary areas of interest and project application:
-
- **1. Spatial Hydrology & Flood Modeling**
- 
- **2. Water Resources & Aquifer Analytics**
-
- **3. Remote Sensing**
- 
- **4. Multi-Criteria Decision Analysis (MCDA)**
-
+What I do
+Flood & hydrology mapping — elevation, slope, drainage, rainfall data combined into risk maps
+Groundwater analysis — locating recharge zones using soil, LULC, and terrain layers
+Remote sensing — LULC classification and NDVI analysis from Landsat imagery
+MCDA / AHP modelling — weighted spatial overlays in ArcGIS Pro
 ---
-
-## Tools I use:
-
-|  GIS & Remote Sensing |  Environmental Labs & Data |
-| :--- | :--- |
-| • **Software:** ArcGIS Pro, QGIS <br>• **Hydrology:** Hydro-conditioning, Watershed delineation<br>• **Analysis:** Multi-Criteria Decision Analysis (MCDA), AHP weighting<br>• **Satellite Data:** LULC classification, NDVI vegetation indexing | • **Water Quality:** Lab testing for wastewater, adsorption, and coagulation<br>• **Core Focus:** Sustainable water management, groundwater preservation |
-
+Tools
+ArcGIS Pro · QGIS 
+ ---
+Projects
+MAR Suitability Analysis — Chapai Nawabganj
+Groundwater in the Barind Tract drops every year. I built a suitability model in ArcGIS Pro using soil, slope, LULC, rainfall, and drainage density — weighted with AHP — to find the best zones for managed aquifer recharge.
+Flood Risk Assesment — Sylhet Division
+Sylhet floods badly and often. Using elevation, slope, river proximity, LULC, and five years of rainfall data (2018–2023), I mapped where flood exposure is highest and why.
+Dhaka Land use Land Cover Change — 2014 to 2024
+Ten years of Landsat imagery. Built-up area in Dhaka grew by 14.55%, mostly at the cost of farmland and drainage space. Mapped exactly where the loss happened.
+Population Density — Bangladesh
+District-level density map. Dhaka exceeds 5,000 people/km². The contrast with the Sundarbans and Chittagong Hill Tracts is stark.
 ---
-
-## Featured Projects:
-
-### [Managed Aquifer Recharge (MAR) Suitability Model](https://github.com/ahidashrafs/Managed-Aquifer-Recharge-MAR-Chapai-Nawabganj-Bangladesh)
-* **Objective:** Address rapidly dropping groundwater tables in the drought-prone Barind Tract.
-* **Approach:** Built an ArcGIS Pro suitability model for Chapai Nawabganj. I integrated soil texture, slope, LULC, rainfall, and drainage density layers using an AHP matrix to map the best zones for artificial aquifer infiltration.
-
-### [Regional Flood Risk Assessment](https://github.com/ahidashrafs/Flood-Risk-Assessment-project-of-Sylhet-Division)
-* **Objective:** Map flash flood vulnerability in low-lying basin areas.
-* **Approach:** Developed a hazard and exposure map for the Sylhet Division. I combined terrain metrics (elevation and slope) with 5-year rainfall data (2018–2023) and river proximity buffers to isolate key drainage bottlenecks.
-
-### [Dhaka Urban Expansion & Land Cover Analysis](https://github.com/ahidashrafs/-Dhaka-s-Environmental-Changes-with-NDVI-and-LULC-2014-2024-)
-* **Objective:** Quantify how rapid urbanization urbanizes natural green spaces and drainage sinks.
-* **Approach:** Used Landsat satellite imagery spanning 2014–2024 to run NDVI and land cover classifications. Tracked a 14.55% surge in paved surfaces to map exactly where natural drainage capacity was lost.
-
----
-
-## Let's Connect!
-I am always open to discussing spatial hydrology, water resource management, or GIS research.
-
-* 📧 **Email:** [ahidashrafs@gmail.com] <!-- Add your actual email here -->
-* 💼 **LinkedIn:** [www.linkedin.com/in/ahid-ashraf-3a5835237] <!-- Add your actual link here -->
+📧 ahidashrafs@gmail.com · LinkedIn
