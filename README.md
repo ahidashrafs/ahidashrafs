@@ -10,14 +10,11 @@ Graduating in 3 months. Looking for GIS or environmental engineering roles.
 
 ### What I do
 
-**Flood & hydrology mapping** — elevation, slope, drainage, rainfall data combined into risk maps
+**Flood & hydrology mapping** — elevation, slope, drainage, and rainfall layers combined to identify where risk is highest
 
-**Groundwater analysis** — locating recharge zones using soil, LULC, and terrain layers
+**Groundwater analysis** — soil, LULC, and terrain data used to locate viable recharge zones
 
-**Remote sensing** — LULC classification and NDVI analysis from Landsat imagery
-
-**MCDA / AHP modelling** — weighted spatial overlays in ArcGIS Pro
-
+**Remote sensing** — LULC classification and NDVI change tracking from Landsat imagery
 ---
 
 ### Tools
