@@ -42,4 +42,4 @@ District-level density map. Dhaka exceeds 5,000 people/km². The contrast with t
 
 ---
 
-📧 ahidashrafs@gmail.com · [LinkedIn](https://www.linkedin.com/in/ahid-ashraf-3a5835237)
+📧 📧 [ahidashrafs@gmail.com](mailto:ahidashrafs@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahid-ashraf-3a5835237)
