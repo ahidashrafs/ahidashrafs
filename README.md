@@ -25,7 +25,7 @@ Graduating in ~3 months. Looking for GIS or environmental engineering roles.
 ArcGIS Pro · QGIS 
 ---
 
-### Projects
+### Featured Projects
 
 **[MAR Suitability — Chapai Nawabganj](https://github.com/ahidashrafs/Managed-Aquifer-Recharge-MAR-Chapai-Nawabganj-Bangladesh)**
 Groundwater in the Barind Tract drops every year. I built a suitability model in ArcGIS Pro using soil, slope, LULC, rainfall, and drainage density — weighted with AHP — to find the best zones for managed aquifer recharge.
@@ -35,10 +35,6 @@ Sylhet floods badly and often. Using elevation, slope, river proximity, LULC, an
 
 **[Dhaka Land Cover Change — 2014 to 2024](https://github.com/ahidashrafs/-Dhaka-s-Environmental-Changes-with-NDVI-and-LULC-2014-2024-)**
 Ten years of Landsat imagery. Built-up area in Dhaka grew by 14.55%, mostly at the cost of farmland and drainage space. Mapped exactly where the loss happened.
-
-**[Population Density — Bangladesh](https://github.com/ahidashrafs/Population-Density-of-Bangladesh)**
-District-level density map. Dhaka exceeds 5,000 people/km². The contrast with the Sundarbans and Chittagong Hill Tracts is stark.
-
 ---
 
 📧 [ahidashrafs@gmail.com](mailto:ahidashrafs@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahid-ashraf-3a5835237)
