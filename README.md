@@ -2,9 +2,9 @@
 
 ## Hi! I'm Ahid Ashraf Sami
 
-A Final-year *Civil & Environmental Engineering student* at *IUT*, Gazipur. I use *GIS* and satellite data to study flood risk, suitability analysis, and land cover change — mostly in Bangladesh.
+A Final-year *Civil & Environmental Engineering student* at *IUT*, Gazipur. I use *GIS* and satellite data to study flood risk, suitability analysis, watershed Delineation and land cover change — mostly in Bangladesh.
 
-Graduating in ~3 months. Looking for GIS or environmental engineering roles.
+Graduating in 3 months. Looking for GIS or environmental engineering roles.
 
 ---
 
