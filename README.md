@@ -35,6 +35,7 @@ Sylhet floods badly and often. Using elevation, slope, river proximity, LULC, an
 
 **[Dhaka Land Cover Change — 2014 to 2024](https://github.com/ahidashrafs/-Dhaka-s-Environmental-Changes-with-NDVI-and-LULC-2014-2024-)**
 Ten years of Landsat imagery. Built-up area in Dhaka grew by 14.55%, mostly at the cost of farmland and drainage space. Mapped exactly where the loss happened.
+
 ---
 
 📧 [ahidashrafs@gmail.com](mailto:ahidashrafs@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahid-ashraf-3a5835237)
