@@ -1,10 +1,10 @@
 <!-- File: ahidashrafs/ahidashrafs/README.md -->
 
-## Ahid Ashraf Sami
+## Hi! I'm Ahid Ashraf Sami
 
-Final-year Civil & Environmental Engineering student at IUT, Gazipur. I use GIS and satellite data to study flood risk, groundwater, and land cover change — mostly in Bangladesh.
+A Final-year *Civil & Environmental Engineering student* at *IUT*, Gazipur. I use *GIS* and satellite data to study flood risk, groundwater, and land cover change — mostly in Bangladesh.
 
-Graduating in ~3 months. Looking for GIS or environmental roles.
+Graduating in ~3 months. Looking for GIS or environmental engineering roles.
 
 ---
 
@@ -22,8 +22,7 @@ Graduating in ~3 months. Looking for GIS or environmental roles.
 
 ### Tools
 
-ArcGIS Pro · QGIS · Landsat imagery · Watershed delineation · Hydro-conditioning · Buffer analysis
-
+ArcGIS Pro · QGIS 
 ---
 
 ### Projects
@@ -42,4 +41,4 @@ District-level density map. Dhaka exceeds 5,000 people/km². The contrast with t
 
 ---
 
-📧 📧 [ahidashrafs@gmail.com](mailto:ahidashrafs@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahid-ashraf-3a5835237)
+📧 [ahidashrafs@gmail.com](mailto:ahidashrafs@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahid-ashraf-3a5835237)
