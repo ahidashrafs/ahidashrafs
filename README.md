@@ -15,6 +15,7 @@ Graduating in 3 months. Looking for GIS or environmental engineering roles.
 **Groundwater analysis** — soil, LULC, and terrain data used to locate viable recharge zones
 
 **Remote sensing** — LULC classification and NDVI change tracking from Landsat imagery
+
 ---
 
 ### Tools
