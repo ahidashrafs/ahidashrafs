@@ -8,11 +8,11 @@ A *Civil & Environmental Engineering graduate* at *IUT*, Gazipur. I use *GIS* an
 
 ### What I do
 
-**Flood & hydrology mapping** — elevation, slope, drainage, and rainfall layers combined to identify where risk is highest
+**Flood & hydrology mapping**: elevation, slope, drainage, and rainfall layers combined to identify where risk is highest
 
-**Groundwater analysis** — soil, LULC, and terrain data used to locate viable recharge zones
+**Groundwater analysis**: soil, LULC, and terrain data used to locate viable recharge zones
 
-**Remote sensing** — LULC classification and NDVI change tracking from Landsat imagery
+**Remote sensing**: LULC classification and NDVI change tracking from Landsat imagery
 
 ---
 
