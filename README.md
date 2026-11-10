@@ -2,7 +2,7 @@
 
 ## Hi! I'm Ahid Ashraf Sami
 
-A *Civil & Environmental Engineering graduate* at *IUT*, Gazipur. I use *GIS* and satellite data to study flood risk, suitability analysis, watershed Delineation and land cover change.
+ivil Engineering graduate from IUT interested in water quality, sustainable water management, and GIS-based environmental assessment.
 
 ---
 
