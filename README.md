@@ -2,7 +2,7 @@
 
 ## Hi! I'm Ahid Ashraf Sami
 
-ivil Engineering graduate from IUT interested in water quality, sustainable water management, and GIS-based environmental assessment.
+Civil Engineering graduate from IUT interested in water quality, sustainable water management, and GIS-based environmental assessment.
 
 ---
 
